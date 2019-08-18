@@ -3,6 +3,7 @@ A fun project to create a twitch bot that acts on t90bro's behalf in [T90Officia
 
 #### Ideas
 ```
+[ ] basic responses to... t90salute, etc?
 [ ] t90facts: randomly be able to recite them
 [ ] t90admin: answer questions about his schedule, rules, etc
 [ ] stories: randomly be able to tell a short story about t90
