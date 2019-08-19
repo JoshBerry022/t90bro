@@ -27,4 +27,6 @@ A fun project to create a twitch bot that acts on t90bro's behalf in [T90Officia
   [ ] counters
   [ ] build orders
 [ ] cleverbot mode: just be a middleman for cleverbot
+[ ] incorporate embarassing photo of Tristan
+[ ] 
 ```
